@@ -4,7 +4,7 @@ Swift Chat Program
 </h3>
 <img src="https://github.com/groeneveldwoodstock/RockPaperScissors/blob/main/rockpaperscissors.png" alt="Screen Shot" style="width:200px;">
 <h3>
-How to play... 
+What can it do? 
 </h3>
 <ul>
   <li>Choose Rock Paper or Scissors by Tapping Image</li>
@@ -23,12 +23,3 @@ This app was created to teach and learn. All code used in creating the app is av
 <p>If you need to contact me you can reach out to me through https://github.com/groeneveldwoodstock or visit http://www.popecomputerscience.com/ or email me at richard.groeneveld@cobbk12.org 
 </p>
 
-
-<h3>Download from the App Store!</h3>
-<img src="https://github.com/groeneveldwoodstock/RockPaperScissors/blob/main/AppStoreRPS.png" alt="Screen Shot" style="width:200px;">
-<hr>
-<p>
-Based on code by Dogukan Yolcuoglu:
-https://github.com/dogukanyolcuoglu/TasKagitMakas
-</p>
-  </body>
