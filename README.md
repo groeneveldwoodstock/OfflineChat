@@ -20,8 +20,10 @@ This application does not use the network, it works offline.
 <h3>
 It is safe for children. They can chat, hear a good joke and tell it at the dinner table!
 There are so many interesting facts that it knows.
-
 </h3>
+<p>There are 57 good jokes (dad jokes), 134 interesting trivia facts, and 90 facts about computers in the libraries the app uses to keep it interesting. There are also a lot of other responses that it knows.</p>
+![image](https://user-images.githubusercontent.com/42473836/217920894-e9925a17-40db-48e9-b3a1-fc7d6299fa51.png)
+</p>
 <h3>
 This app was created to teach and learn. All code used in creating the app is available on GitHub.
 </h3>
