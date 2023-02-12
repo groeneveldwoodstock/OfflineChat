@@ -31,8 +31,8 @@ This app was created to teach and learn. All code used in creating the app is av
 </p>
 <hr>
 </p>
-<h3>Download from the App Store!</h3>
-<img src="https://github.com/groeneveldwoodstock/RockPaperScissors/blob/main/AppStoreRPS.png" alt="Screen Shot" style="width:200px;">
+<h3>Check out this and the other apps I have made in the App Store!</h3>
+<img src="https://github.com/groeneveldwoodstock/OfflineChat/blob/main/groeneveldAppStore.png" alt="Screen Shot" style="width:200px;">
 <hr>
 <p>
 
